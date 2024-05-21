@@ -74,7 +74,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/background\ home.jpg);
+    background-image: url(../images/background home.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
