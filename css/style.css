@@ -74,7 +74,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/background\ home.jpg);
+    background-image: url(../images/background home.jpg);
     background-blend-mode: luminosity;
     min-height: 100vh;
 }
@@ -82,7 +82,7 @@ img {
    text-transform: none;
 }
 #news {
-    background-image: url(../images/in\ the\ cafe.jpg);
+    background-image: url(../images/in the cafe.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -186,7 +186,7 @@ footer p {
 
  /*MENU*/
 #menu  {
-    background-image: url(../images/colorful\ drink.jpg);
+    background-image: url(../images/colorful drink.jpg);
     min-height: 100vh;
  }   
  .menu-content {
